@@ -1,6 +1,6 @@
 # Open-Source-Responsive-Search-Ads-Generator-1.1
 
-RSA Generator 1.1 by Rares Finatan\n\
+RSA Generator 1.1 by Rares Finatan
 This program outputs responsive search ads ready for Google Ads Editor or Microsoft Ads Editor upload.
 Please follow the instructions outlined in the program to receive a CSV output of requested parameters.
 Please note the variables provided in this file are simply for explanatory purposes and will require customization
